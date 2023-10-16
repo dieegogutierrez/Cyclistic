@@ -1,5 +1,7 @@
 # Cyclistic
 
+Please access this notebook in [Kaggle](https://www.kaggle.com/code/dieegogutierrez/google-data-analytics-capstone-project-cyclistic)
+
 This analysis is part of a Capstone Project for the Google Data Analytics Certificate program (Cyclistic). It will use the software RStudio and R programming language to complete the project, and for sharing the results, this notebook markdown, and a Slide presentation will be created.
 
 The project will be completed by using the 6 Data Analytics stages:
