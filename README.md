@@ -6,9 +6,9 @@ This analysis is part of a Capstone Project for the Google Data Analytics Certif
 
 The project will be completed by using the 6 Data Analytics stages:
 
-Ask: Identify the business task and determine the key stakeholders.
-Prepare: Collect the data, identify how it’s organized, determine the credibility of the data.
-Process: Select the tool for data cleaning, check for errors and document the cleaning process.
-Analyze: Organize and format the data, aggregate the data so that it’s useful, perform calculations and identify trends and relationships.
-Share: Use design thinking principles and data-driven storytelling approach, present the findings with effective visualization. Ensure the analysis has answered the business task.
-Act: Share the final conclusion and the recommendations.
+- Ask: Identify the business task and determine the key stakeholders.
+- Prepare: Collect the data, identify how it’s organized, determine the credibility of the data.
+- Process: Select the tool for data cleaning, check for errors and document the cleaning process.
+- Analyze: Organize and format the data, aggregate the data so that it’s useful, perform calculations and identify trends and relationships.
+- Share: Use design thinking principles and data-driven storytelling approach, present the findings with effective visualization. Ensure the analysis has answered the business task.
+- Act: Share the final conclusion and the recommendations.
